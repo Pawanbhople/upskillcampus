@@ -14,7 +14,7 @@ The quiz game application is developed using Python programming language and lev
 - Seamless integration with Python libraries such as NumPy and Pandas for efficient data handling and analysis
 
 ## Getting Started
-To get started with the quiz game application, simply clone this repository and run the quiz_game.py file using Python. Follow the on-screen instructions to navigate through the quiz and test your knowledge!
+To get started with the quiz game application, simply clone this repository and run the quizgameproject.py file using Python. Follow the on-screen instructions to navigate through the quiz and test your knowledge!
 
 ## Project Report
 For a comprehensive overview of the project, including its objectives, methodologies, results, and future scope, please refer to the project report. The report, prepared by Pawan Nageshrao Bhople, provides detailed insights into the development process, performance evaluation, and recommendations for further enhancements.
